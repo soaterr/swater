@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://soaterr.github.io/swater/sitemap.xml
